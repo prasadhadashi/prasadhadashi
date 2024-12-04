@@ -4,7 +4,7 @@
 - 💞️ I’m looking to Internship on Web Development
 - 📫 How to reach me ...-> mail me at prasadhadashi34@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...im experience in data entry, document varification & management, i also work in cab-e as a operation team member :)
+- ⚡ Fun fact: ...i am experience in data entry, document varification & management, i also work in cab-e as a operation team member :)
 
 <!---
 prasadhadashi/prasadhadashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
